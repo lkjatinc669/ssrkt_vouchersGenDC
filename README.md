@@ -15,7 +15,7 @@ A Voucher Generator and Saver for Degree Section
 4. Run the "database.bat"
 5. Run the "reciept.bat"
 
-### Download the fresh copy from from https://github.com/lkjatinc669/ssrkt_vouchersGenJC
+### Download the fresh copy from from https://github.com/lkjatinc669/ssrkt_vouchersGenDC
 # Developed by
 Jatin Gohil [@lkjatinc669](https://github.com/lkjatinc669/)
 
